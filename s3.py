@@ -10,7 +10,6 @@ bucket_name = "harsha-lambda-trigger-2026"
 #         "LocationConstraint": "REGION"
 #     }
 # )
-
 # print("Bucket created:", bucket_name)
 
 s3.upload_file(
