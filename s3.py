@@ -18,5 +18,4 @@ s3.upload_file(
     "upload10.jpg"
 )
 
-
 print("Image uploaded successfully")
